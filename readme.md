@@ -11,7 +11,7 @@ A TCompose Request Permissions library for both Jetpack Compose for android, to 
 ## Download
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.the-best-is-best/compose-request-permission)](https://central.sonatype.com/artifact/io.github.the-best-is-best/compose-request-permission)
-Compose Quill is available on `mavenCentral()`.
+Compose Request Permissions is available on `mavenCentral()`.
 
 ```kotlin
 implementation("io.github.the-best-is-best:compose-request-permission:1.0.0")
